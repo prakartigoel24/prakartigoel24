@@ -2,9 +2,9 @@
 <h3 align="center">A passionate learner , coder and developer .</h3>
 <br>
 
-- 🌱I’m currently learning **Web Development.**
+- 🌱I’m currently focusing on DSA.
 
-- 📈 Contantly improving my skills.
+- 📈 Constantly improving my skills.
 
 - ⭐ I'm interested in **Software Development , A.I. , M.L. and Web Development.**
 
