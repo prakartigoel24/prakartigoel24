@@ -8,8 +8,6 @@
 
 - ⭐ I'm interested in **Software Development , A.I. , M.L. and Web Development.**
 
-- 👨‍💻 All of my projects are available on my Github : [https://github.com/prakartigoel24](https://github.com/prakartigoel24)
-
 - 📧Email me at : **prakartigoel24@gmail.com**
 
 - ⚡ Fun fact : **I love to explore new things 💜.**
