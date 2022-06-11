@@ -2,11 +2,11 @@
 <h3 align="center">A passionate learner , coder and developer .</h3>
 <br>
 
-- 🌱I’m currently focusing on DSA.
+- 🌱I’m currently focusing on DSA and little bit of development.
 
 - 📈 Constantly improving my skills.
 
-- ⭐ I'm interested in **Software Development , A.I. , M.L. and Web Development.**
+- ⭐ I'm interested in everything that helps to better people's life.
 
 - 📧Email me at : **prakartigoel24@gmail.com**
 
