@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="5px"> Hi , I'm Prakarti :-) </h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="60px"> Hi , I'm Prakarti :-) </h1>
 <h3 align="center">A passionate learner , coder and developer .</h3>
 <br>
 
