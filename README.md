@@ -25,8 +25,10 @@
 <hr>
 <h3 align="left">☘ My Github Stats:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prakartigoel24&show_icons=true&locale=en&layout=compact" alt="prakartigoel24" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prakartigoel24&show_icons=true&locale=en" alt="prakartigoel24" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prakartigoel24&" alt="prakartigoel24" /></p>
+[![Prakarti's GitHub stats](https://github-readme-stats.vercel.app/api?username=prakartigoel24&show_icons=true&theme=radical)](https://github.com/prakartigoel24)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prakartigoel24&layout=compact&theme=radical)](https://github.com/prakartigoel24)
+  
+[![Prakarti's streak stats](https://github-readme-streak-stats.herokuapp.com/?user=prakartigoel24&stroke=ffffff&background=171717&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)](https://github.com/prakartigoel24)
