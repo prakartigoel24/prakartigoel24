@@ -10,7 +10,7 @@
 
 - ⭐ I'm interested in everything that helps to better people's life.
 
-- 📧Email me at : **prakartigoel24@gmail.com**
+- 📧Email me at : **praks.codes@gmail.com**
 
 - ⚡ Fun fact : **I love to explore new things 💜.**
 <br>
